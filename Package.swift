@@ -16,8 +16,7 @@ let package = Package(
             name: "SwiftCloudVaper",
             dependencies: [
                 "Compute",
-            ],
-            path: "Sources"
+            ]
         ),
     ]
 )
